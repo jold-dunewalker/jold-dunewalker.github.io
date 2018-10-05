@@ -1,2 +1,3 @@
 name: Jold Dunewalker
 theme: jekyll-theme-hacker
+exclude: ["vendor"]
